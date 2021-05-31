@@ -1,2 +1,0 @@
-# nimatmin-script
-hai
